@@ -15,7 +15,7 @@ def city_input():
     This function starts the user interface by introduction and
     asking the user with the city he/she wants to analyze
     '''
-    print('Hello! I am Muradi Alotabi! Let\'s explore some US bikeshare data!')
+    print('Hello! I am Muradi Let\'s explore some US bikeshare data!')
     print(' ')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     print('Enter the city you want to analyze the data for:')
